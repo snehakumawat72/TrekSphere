@@ -1,46 +1,39 @@
-🌍 TrekSphere
-TrekSphere is a modern travel website designed to help users discover top destinations, explore exclusive travel packages, and book their next adventure with ease.
+# 🌍 TrekSphere  
 
-📖 Description
-TrekSphere provides a visually engaging and user-friendly platform for travel enthusiasts:
+**TrekSphere** is a modern travel website designed to help users **discover top destinations**, **explore exclusive travel packages**, and **book their next adventure** with ease.  
 
-✈️ Discover top destinations with immersive video-based previews.
 
-🏖 Browse exclusive travel packages and tailor adventures to your needs.
+## 📖 Description  
+TrekSphere provides a **visually engaging** and **user-friendly platform** for travel enthusiasts:  
 
-📝 Use the responsive booking form to plan and reserve trips.
+- Discover destinations with **immersive video-based previews**  
+- Browse **exclusive travel packages**  
+- Use a **responsive booking form** to plan trips  
+- Fully **mobile-friendly design** for desktop, tablet, and smartphone  
+- Integrated **social media & newsletter** for user engagement  
 
-📱 Fully responsive design for desktop, tablet, and mobile.
 
-🌐 Integrated social media & newsletter for user engagement.
+## 🚀 Live Demo  
+👉 [trek-sphere-flame.vercel.app](https://trek-sphere-flame.vercel.app)  
 
-🚀 Live Demo
-[
 
-🛠️ Technologies Used
-HTML5 & CSS3 → for structure and styling
+## 🛠️ Technologies Used  
 
-JavaScript → for interactivity (if applicable)
+- **HTML5 & CSS3** → structure and styling  
+- **JavaScript** → interactive elements  
+- **Font Awesome & Boxicons** → iconography  
+- **Google Fonts** → clean, modern typography  
+- **Responsive Design** → tested on multiple devices  
 
-Font Awesome & Boxicons → for icons and navigation
 
-Google Fonts → for modern, clean typography
+## 🎨 Frontend Development Approach  
 
-Responsive Design → tested across devices for accessibility
+The frontend of TrekSphere was crafted to balance **performance, clarity, and visual appeal**.  
 
-🎨 Frontend Development Approach
-The frontend of TrekSphere was crafted with modern web design practices and a strong focus on clarity, responsiveness, and immersive visuals.
-
-Key Highlights:
-🎥 Background Videos and animated destinations for immersive browsing.
-
-📂 Modular Structure — pages and sections like services, destinations, packages, booking, about, contact organized for easy scalability.
-
-🎯 Custom CSS Animations & Transitions for smooth, engaging effects.
-
-🖼️ Lightweight Build — no frameworks used; pure HTML + CSS ensures fast load times.
-
-🔗 Social Media Integration to engage with travelers beyond the website.
-
-This approach makes TrekSphere lightweight, scalable, and easy to customize for future enhancements.
+### 🔑 Key Highlights:  
+- **Background videos** and **animated previews** for immersive experience  
+- **Organized modular sections**: *services, destinations, packages, booking, about, contact*  
+- **Custom CSS transitions** for smooth animations  
+- **Lightweight build** — no heavy frameworks; pure **HTML + CSS** for speed  
+- **Scalable structure**, designed for easy updates and future enhancements  
 
